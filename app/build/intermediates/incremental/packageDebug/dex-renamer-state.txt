@@ -1,0 +1,7 @@
+#Mon Dec 19 06:27:21 CST 2016
+base.0=E\:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_243f2ecab52a2bb1c6acf2d83b19372d487a6d3c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9fe5abbcc8289f4393b6bcf31a7e1e52fdab77cf\\classes.dex
+base.1=E\:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9fe5abbcc8289f4393b6bcf31a7e1e52fdab77cf
+file.0=E\:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_243f2ecab52a2bb1c6acf2d83b19372d487a6d3c\\classes.dex

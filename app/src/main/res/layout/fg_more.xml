@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/titlebar"
+        android:elevation="2dp">
+
+        <Button
+            android:id="@+id/btn_menu"
+            style="@style/nav_button"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/title_menu_n"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_More"/>
+
+    </RelativeLayout>
+
+
+    <TextView
+        style="@style/line"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:id="@+id/tv_usermanage"
+        style="@style/simpleTextView"
+        android:drawableRight="@drawable/ico_next_n"
+        android:text="@string/more_accountmanage"/>
+    <!--        android:drawableLeft="@drawable/ico_more_user"
+    -->
+    <TextView style="@style/line"/>
+
+    <TextView
+        android:id="@+id/tv_setting"
+        style="@style/simpleTextView"
+        android:drawableRight="@drawable/ico_next_n"
+        android:text="@string/more_systemsetting"/>
+    <!--        android:drawableLeft="@drawable/ico_more_setting"
+    -->
+    <TextView style="@style/line"/>
+
+    <TextView
+        style="@style/line"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:id="@+id/tv_about"
+        style="@style/simpleTextView"
+        android:drawableRight="@drawable/ico_next_n"
+        android:text="@string/more_about"/>
+    <!--android:drawableLeft="@drawable/ico_more_about"-->
+    <TextView style="@style/line"/>
+
+    <Button
+        android:id="@+id/btn_logout"
+        style="@style/simpleTextView"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/bg_login_btn"
+        android:gravity="center"
+        android:text="@string/modify_logout"/>
+</LinearLayout>

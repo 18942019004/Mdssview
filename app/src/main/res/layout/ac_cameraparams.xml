@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/titlebar"
+        android:transitionName="leftmenu">
+
+        <Button
+            android:id="@+id/leftBtn"
+            style="@style/nav_button"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/title_back_n"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_cameraparam"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_adddevice_item_height"
+        android:layout_marginTop="20dp"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/tv"
+            style="@style/adddevice_textview"
+            android:text="@string/cameraparam_rotate"/>
+
+        <com.widget.ToggleButton
+            android:id="@+id/tg_scale"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/ico_code"
+            android:gravity="center_vertical"/>
+
+        <TextView style="@style/line"/>
+    </RelativeLayout>
+</LinearLayout>

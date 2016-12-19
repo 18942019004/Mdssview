@@ -1,0 +1,63 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.jakewharton.butterknife'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "25.0.1"
+
+
+    defaultConfig {
+        applicationId "com.mdssview"
+        minSdkVersion 14
+        targetSdkVersion 14
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+        packagingOptions {
+            exclude 'META-INF/DEPENDENCIES'
+            exclude 'META-INF/NOTICE'
+            exclude 'META-INF/LICENSE'
+        }
+        manifestPlaceholders = [
+                GETUI_APP_ID    : "3808JAWBdg7zbFb9MBgTA6",
+                GETUI_APP_KEY   : "zlOrrJ3Ayp7U5p6nneGRf7",
+                GETUI_APP_SECRET: "UWfqXwDwma5dvY7pF5HxG7"
+        ]
+        ndk {
+            abiFilter "armeabi"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.0.1'
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    compile 'com.android.support:recyclerview-v7:25.0.1'//RecyclerView
+    compile 'com.android.support:cardview-v7:25.0.1'//CardView
+    compile 'com.android.support:design:25.0.1'
+    compile 'com.zcw:togglebutton-library:1.0.0'
+    compile 'com.alibaba:fastjson:1.1.54.android'
+    //注解工具
+    compile 'com.jakewharton:butterknife:8.4.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
+    //图片加载框架 glide
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    //气泡layout
+    compile 'com.daasuu:BubbleLayout:1.1.1'
+    //个推SDK
+    compile 'com.getui:sdk:2.9.5.0'
+//    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile files('libs/zbardecoder.jar')
+    compile files('libs/NewLivePlayer-new.jar')
+    compile files('libs/WebSocket.jar')
+    compile files('libs/core.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+}

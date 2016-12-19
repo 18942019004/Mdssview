@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/light_white"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/titlebar"
+        android:elevation="2dp">
+
+        <Button
+            android:id="@+id/leftBtn"
+            style="@style/nav_button"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/title_back_n"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_p2p"/>
+
+        <Button
+            android:id="@+id/btn_save"
+            style="@style/nav_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/title_save_n"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_adddevice_item_height"
+        android:layout_marginTop="30dp"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:layout_alignParentTop="true"
+            android:background="@color/gray"/>
+
+        <TextView
+            style="@style/adddevice_textview"
+            android:text="@string/adddevice_type"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:gravity="center_vertical"
+            android:text="@string/item1"
+            android:textColor="@color/black"
+            android:textSize="14sp"/>
+
+        <TextView style="@style/line"/>
+    </RelativeLayout>
+
+    <TextView style="@style/line"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_adddevice_item_height"
+        android:layout_marginTop="30dp"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="0.1sp"
+            android:layout_alignParentTop="true"
+            android:background="@color/gray"/>
+
+        <TextView
+            android:id="@+id/tv1"
+            style="@style/adddevice_textview"
+            android:text="@string/adddevice_name"/>
+
+        <EditText
+            android:id="@+id/et_devicename"
+            style="@style/adddevice_edittext"
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:layout_toRightOf="@id/tv1"
+            android:gravity="right|center_vertical"
+            android:textColor="@color/black"
+            android:textSize="14sp"/>
+
+        <TextView style="@style/line"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_adddevice_item_height"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/tv"
+            style="@style/adddevice_textview"
+            android:text="@string/adddevice_serias"/>
+
+        <ImageView
+            android:id="@+id/img_code"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/ico_code"
+            android:gravity="center_vertical"/>
+
+        <EditText
+            android:id="@+id/et_seria"
+            style="@style/adddevice_edittext"
+            android:layout_alignParentRight="false"
+            android:layout_toLeftOf="@id/img_code"
+            android:layout_toRightOf="@id/tv"
+            android:inputType="text"/>
+
+        <TextView style="@style/line"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_adddevice_item_height"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/tv2"
+            style="@style/adddevice_textview"
+            android:text="@string/adddevice_user"/>
+
+        <EditText
+            android:id="@+id/et_username"
+            style="@style/adddevice_edittext"
+            android:layout_marginRight="15dp"
+            android:layout_toRightOf="@id/tv2"
+            android:inputType="text"
+            android:text="admin"/>
+
+        <TextView style="@style/line"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_adddevice_item_height"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/tv3"
+            style="@style/adddevice_textview"
+            android:text="@string/adddevice_pwd"/>
+
+        <EditText
+            android:id="@+id/et_pwd"
+            style="@style/adddevice_edittext"
+            android:layout_width="fill_parent"
+            android:layout_marginRight="15dp"
+            android:layout_toRightOf="@id/tv3"
+            android:inputType="textPassword"/>
+
+        <TextView style="@style/line"/>
+    </RelativeLayout>
+
+    <TextView style="@style/line"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_adddevice_item_height"
+        android:background="@color/white"
+        android:visibility="gone">
+
+        <TextView
+            style="@style/adddevice_textview"
+            android:text="@string/adddevice_monitor"/>
+
+        <TextView
+            android:id="@+id/tv_playstream"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:gravity="center_vertical"
+            android:text="主码流"
+            android:textColor="@color/black"
+            android:textSize="14sp"/>
+
+        <TextView style="@style/line"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_adddevice_item_height"
+        android:background="@color/white"
+        android:elevation="2dp"
+        android:visibility="gone">
+
+        <TextView
+            style="@style/adddevice_textview"
+            android:text="@string/adddevice_playback"/>
+
+        <TextView
+            android:id="@+id/tv_playbackstream"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:gravity="center_vertical"
+            android:text="主码流"
+            android:textColor="@color/black"
+            android:textSize="14sp"/>
+
+        <TextView style="@style/line"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_search"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/bg_login_btn"
+        android:text="@string/adddevice_startsearch"
+        android:textColor="@color/black"
+        android:textSize="16sp"/>
+
+</LinearLayout>

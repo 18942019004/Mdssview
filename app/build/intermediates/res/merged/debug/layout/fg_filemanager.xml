@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/light_white"
+                android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/titlebar"
+        style="@style/titlebar">
+
+        <Button
+            android:id="@+id/btn_menu"
+            style="@style/nav_button"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/title_menu_n"/>
+
+        <Button
+            android:id="@+id/btn_selectAll"
+            style="@style/nav_button"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/title_selectall_n"
+            android:visibility="invisible"/>
+
+        <RadioGroup
+            android:id="@+id/radiogroup"
+            android:layout_width="160dp"
+            android:layout_height="35dp"
+            android:layout_centerInParent="true"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <RadioButton
+                android:id="@+id/rdo_video"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/bg_radiobtn_localfile_left"
+                android:button="@null"
+                android:checked="true"/>
+
+            <RadioButton
+                android:id="@+id/rdo_picture"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/bg_radiobtn_localfile_right"
+                android:button="@null"/>
+        </RadioGroup>
+
+        <CheckBox
+            android:id="@+id/btn_select"
+            style="@style/nav_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/bg_edit"
+            android:button="@null"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/light_gray"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="gone">
+
+            <ImageButton
+                android:id="@+id/ibtn_share"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerInParent="true"
+                android:layout_weight="1"
+                android:background="@color/transparent"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:scaleType="fitCenter"
+                android:src="@drawable/bg_share"/>
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:id="@+id/ibtn_delete"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerInParent="true"
+                android:layout_weight="1"
+                android:background="@color/transparent"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:scaleType="fitCenter"
+                android:src="@drawable/bg_delete"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/ll_bottom"
+        android:layout_below="@id/titlebar">
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/singleImage"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/textColor"
+        android:elevation="2dp"
+        android:scaleType="fitXY"
+        android:transitionName="img"/>
+
+</RelativeLayout>

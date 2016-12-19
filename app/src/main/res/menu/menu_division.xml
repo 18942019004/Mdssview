@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res-auto"
+      xmlns:android1="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android1:actionLayout="@layout/view_singleimg"
+        android1:title=""
+        android:icon="@drawable/live_menu_4"/>
+    <!--<item-->
+    <!--android:icon="@drawable/live_menu_9"-->
+    <!--android:showAsAction="always"/>-->
+    <!--<item-->
+    <!--android:icon="@drawable/live_menu_16"-->
+    <!--android:showAsAction="always"/>-->
+</menu>

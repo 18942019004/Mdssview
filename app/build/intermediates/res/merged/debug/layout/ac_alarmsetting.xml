@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:toggle="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/titlebar"
+        android:transitionName="leftmenu">
+
+        <Button
+            android:id="@+id/leftBtn"
+            style="@style/nav_button"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/title_back_n"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_alarmsetting"/>
+
+    </RelativeLayout>
+
+    <TextView
+        style="@style/line"
+        android:layout_marginTop="30dp"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_setting_height"
+        android:background="@color/white"
+        android:gravity="center_vertical">
+
+        <TextView
+            style="@style/simpleTextView"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/alarmsetting_name"/>
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:text="ID16 2"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+
+    <TextView style="@style/line"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_setting_height"
+        android:background="@color/white"
+        android:gravity="center_vertical">
+
+        <TextView
+            style="@style/simpleTextView"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/alarmsetting_push"/>
+
+        <com.widget.ToggleButton
+            android:id="@+id/tg_push"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            toggle:offColor="@color/white"
+            toggle:onColor="@color/blue_light"/>
+    </LinearLayout>
+
+    <TextView style="@style/line"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_setting_height"
+        android:background="@color/white"
+        android:gravity="center_vertical">
+
+        <TextView
+            style="@style/simpleTextView"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/alarmsetting_toggle"/>
+
+        <com.widget.ToggleButton
+            android:id="@+id/tg_alarmtoggle"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            toggle:offColor="@color/white"
+            toggle:onColor="@color/blue_light"/>
+    </LinearLayout>
+
+    <TextView style="@style/line"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_setting_height"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_sensor"
+            style="@style/simpleTextView"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:drawableRight="@drawable/ico_next_n"
+            android:text="@string/alarmsetting_sensor"/>
+    </LinearLayout>
+
+    <TextView
+        style="@style/line"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/bg_login_btn"
+        android:text="@string/alarmsetting_save"
+        android:textColor="@color/black"
+        android:textSize="16sp"/>
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rg_leftmenu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <RadioButton
+        android:id="@+id/rbtn_home"
+        style="@style/leftMenu"
+        android:button="@drawable/menu_ico_home"
+        android:text="@string/leftmenu_main"
+        android:visibility="gone" />
+
+    <RadioButton
+        android:id="@+id/rbtn_live"
+        style="@style/leftMenu"
+        android:button="@drawable/menu_ico_livepreview_n"
+        android:text="@string/leftmenu_live" />
+
+    <RadioButton
+        android:id="@+id/rbtn_playback"
+        style="@style/leftMenu"
+        android:button="@drawable/menu_ico_playback_n"
+        android:text="@string/leftmenu_playback" />
+
+    <RadioButton
+        android:id="@+id/rbtn_device"
+        style="@style/leftMenu"
+        android:button="@drawable/menu_ico_device_n"
+        android:text="@string/leftmenu_devicemanager" />
+
+    <RadioButton
+        android:id="@+id/rbtn_alarmlist"
+        style="@style/leftMenu"
+        android:button="@drawable/menu_ico_device_n"
+        android:text="@string/leftmenu_alarmlist" />
+
+    <RadioButton
+        android:id="@+id/rbtn_localfile"
+        style="@style/leftMenu"
+        android:button="@drawable/menu_ico_filemanager"
+        android:text="@string/leftmenu_filemanager" />
+
+    <RadioButton
+        android:id="@+id/rbtn_favorite"
+        style="@style/leftMenu"
+        android:button="@drawable/menu_ico_favorites_n"
+        android:text="@string/leftmenu_favorite"
+        android:visibility="gone" />
+
+    <RadioButton
+        android:id="@+id/rbtn_setting"
+        style="@style/leftMenu"
+        android:button="@drawable/menu_ico_setting_n"
+        android:text="@string/leftmenu_localsetting" />
+
+</RadioGroup>

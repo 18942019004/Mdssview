@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <ImageButton
+        android:id="@+id/ibtn_16"
+        style="@style/functionButton"
+        android:layout_marginBottom="20dp"
+        android:background="@color/transparent"
+        android:src="@drawable/live_menu_16"/>
+
+    <ImageButton
+        android:id="@+id/ibtn_9"
+        style="@style/functionButton"
+        android:layout_marginBottom="20dp"
+        android:background="@color/transparent"
+        android:src="@drawable/live_menu_9"/>
+
+    <ImageButton
+        android:id="@+id/ibtn_4"
+        style="@style/functionButton"
+        android:background="@color/transparent"
+        android:src="@drawable/live_menu_4"/>
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#d8d8d8"
+        android:gravity="top|center_horizontal"
+        android:text="fuck"
+        android:textColor="#000000"
+        android:textSize="56sp"
+        android:visibility="gone" />
+
+    <com.widget.MyDatePicker
+        android:id="@+id/mdatepicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:calendarViewShown="false" />
+
+    <com.widget.MyTimePicker
+        android:id="@+id/mtimepicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

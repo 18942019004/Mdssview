@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/titlebar"
+        android:transitionName="leftmenu">
+
+        <Button
+            android:id="@+id/leftBtn"
+            style="@style/nav_button"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/title_back_n"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_devicesetting"/>
+
+        <Button
+            android:id="@+id/ibtn_device"
+            style="@style/nav_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/title_code_n"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_modifyparam"
+        style="@style/simpleTextView"
+        android:layout_marginTop="10dp"
+        android:text="@string/devicesetting_modify_conn_param"/>
+
+    <View style="@style/line"/>
+
+    <TextView
+        android:id="@+id/tv_modifypwd"
+        style="@style/simpleTextView"
+        android:text="@string/devicesetting_change_password"
+        android:visibility="gone"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_synctime"
+        style="@style/simpleTextView"
+        android:text="@string/devicesetting_sync_time"/>
+
+    <View style="@style/line"/>
+
+    <Button
+        android:id="@+id/btn_delete"
+        style="@style/simpleTextView"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/devicesetting_delete"/>
+</LinearLayout>

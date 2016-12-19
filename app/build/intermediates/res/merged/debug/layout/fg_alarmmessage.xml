@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/title"
+        style="@style/titlebar"
+        android:elevation="10dp">
+
+        <Button
+            android:id="@+id/btn_menu"
+            style="@style/nav_button"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/title_menu_n"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_aliammessage"/>
+
+        <Button
+            android:id="@+id/btn_delete"
+            style="@style/nav_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/btn_delete"/>
+    </RelativeLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/refreshLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/title"
+        android:layout_marginTop="2dp">
+
+        <com.widget.TypeRecyclerView
+            android:id="@+id/rv_alarmList"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+
+        <ListView
+            android:id="@+id/lv_alarmList"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:divider="@color/transparent"
+            android:dividerHeight="0dp"
+            android:scrollbars="vertical"
+            android:visibility="gone"/>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/title"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/bg_test"
+        android:clickable="true"
+        android:elevation="1dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:text="今天"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:visibility="gone"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="25dp"
+        android:elevation="10dp"
+        android:visibility="gone"/>
+
+</RelativeLayout>

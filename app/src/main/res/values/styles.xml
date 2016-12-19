@@ -1,0 +1,143 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/light_gray</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimaryDark">@color/bg_statusBar</item>
+        <item name="colorAccent">@color/bg_titlebar</item>
+        <item name="android:windowContentTransitions" tools:ignore="NewApi">true</item>
+    </style>
+    <!--
+        <item name="colorPrimaryDark">#881b1b1b</item>
+        <item name="colorPrimary">@color/bg_titlebar</item>
+    -->
+
+    <style name="loading" parent="@style/AppTheme">
+        <item name="android:windowBackground">@drawable/bg_loading</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="leftMenu">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:background">@color/bg_left_item</item>
+        <item name="android:paddingLeft">-20dp</item>
+    </style>
+
+    <style name="nav_button">
+        <item name="android:layout_width">35dp</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+    <!-- @dimen/height_titlebar -->
+    <style name="titlebar">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+        <item name="android:background">@color/bg_titlebar</item>
+        <item name="android:clipToPadding">true</item>
+        <item name="android:elevation" tools:ignore="NewApi">10dp</item>
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+
+    <style name="tv_title">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="line">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">@color/line</item>
+    </style>
+
+    <style name="adddevice_textview">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="adddevice_edittext">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center_vertical|right</item>
+        <item name="android:textSize">@dimen/adddevice_et_textsize</item>
+    </style>
+
+    <style name="myProgress" parent="@android:style/Theme.Dialog">
+        <item name="android:indeterminateDrawable">@drawable/progress_revolve</item>
+        <item name="android:windowFrame">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="smsDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="functionButton">
+        <item name="android:layout_width">35dp</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+
+    <style name="simpleTextView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/item_setting_height</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:background">@color/bg_selectitem</item>
+        <item name="android:textColor">@color/bg_simpletextview</item>
+    </style>
+
+    <style name="tab_style2">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:background">@null</item>
+        <!-- 上面这一句可以把radiobutton的图标去掉 -->
+        <item name="android:gravity">center_horizontal|bottom</item>
+    </style>
+
+    <style name="popupAnimation">
+        <item name="android:windowEnterAnimation">@anim/anim_popup_enter</item>
+        <item name="android:windowExitAnimation">@anim/anim_popup_exit</item>
+    </style>
+
+    <style name="chooseChannelDialog" parent="@style/Theme.AppCompat.Dialog">
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

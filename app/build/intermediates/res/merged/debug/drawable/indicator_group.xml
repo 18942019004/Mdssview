@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/left_icon_devicelist_group_h" android:state_expanded="true"/>
+    <item android:drawable="@drawable/left_icon_devicelist_group_n" android:state_expanded="false"/>
+
+</selector>

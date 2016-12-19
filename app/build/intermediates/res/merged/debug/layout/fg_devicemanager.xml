@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_share"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:background="@drawable/bg_login_btn"
+        android:text="@string/devicelist_share"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+    <ListView
+
+        android:id="@+id/lv_device"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/btn_share"
+        android:layout_below="@id/title"
+        android:divider="@color/transparent"
+        android:dividerHeight="1px"
+        android:overScrollMode="never"
+        android:visibility="gone"/>
+
+    <ExpandableListView
+        android:id="@+id/elv_devicelist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/title"
+        android:childDivider="@color/gray"
+        android:divider="@color/gray"
+        android:dividerHeight="1px"
+        android:groupIndicator="@null"
+        android:indicatorLeft="0dp"/>
+
+    <RelativeLayout
+        android:id="@+id/title"
+        style="@style/titlebar"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/lv_device"
+        android:layout_toRightOf="@+id/lv_device">
+
+        <Button
+            android:id="@+id/btn_menu"
+            style="@style/nav_button"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/title_menu_n"/>
+
+        <Button
+            android:id="@+id/btn_cancel"
+            style="@style/nav_button"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/title_cancel"
+            android:visibility="gone"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_devicemanager"/>
+
+        <Button
+            android:id="@+id/btn_add"
+            style="@style/nav_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/title_add_n"/>
+
+        <CheckBox
+            android:id="@+id/cb_selectall"
+            style="@style/nav_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:button="@drawable/bg_selectall"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/titlebar"
+        android:transitionName="leftmenu">
+
+        <Button
+            android:id="@+id/leftBtn"
+            style="@style/nav_button"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/title_back_n"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_devicesetting"/>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="10dp"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/tv_modifyname"
+        style="@style/simpleTextView"
+        android:text="@string/camerasetting_modifyname"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="15dp"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/tv_wifisetting"
+        style="@style/simpleTextView"
+        android:text="@string/camerasetting_wifisetting"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/tv_cameraparam"
+        style="@style/simpleTextView"
+        android:text="@string/camerasetting_cameraparam"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/tv_alarm"
+        style="@style/simpleTextView"
+        android:text="@string/camerasetting_alarm"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray"/>
+
+
+
+</LinearLayout>

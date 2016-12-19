@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_select_layout.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\time_select_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fg_filemanager.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fg_filemanager.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_cameraparams.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_cameraparams.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fg_playback.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fg_playback.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\childitem_dl_devicelist.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\childitem_dl_devicelist.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_layout_main.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\function_layout_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fg_localvideo.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fg_localvideo.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_toolbar.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_devicelist.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_devicelist.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fg_play.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fg_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_alarmsetting.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_alarmsetting.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\layout_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_qrcode.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_qrcode.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_imageview.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_imageview.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\picker.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_localdevice.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_localdevice.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_play.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fragment_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\getui_notification.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.getui\\sdk\\2.9.5.0\\res\\layout\\getui_notification.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_imageviewer.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_imageviewer.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_back.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\title_back.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_devicesetting.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_devicesetting.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_wifi_item.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_wifi_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_loading.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_loading.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fg_alarmmessage.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fg_alarmmessage.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fg_localsetting.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fg_localsetting.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_device_child.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_device_child.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_alarminfo_grid.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_alarminfo_grid.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_singleimg.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\view_singleimg.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dl_input_groupname.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\dl_input_groupname.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_accountmanage.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_accountmanage.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_adddevice.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_adddevice.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_alarminfo.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_alarminfo.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_device_group.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_device_group.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_modifydevicetime.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_modifydevicetime.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_main.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_searchlocaldevice.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_searchlocaldevice.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\code_scanner.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\code_scanner.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_localvideoplayer.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_localvideoplayer.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_register.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_register.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\groupitem_dl_devicelist.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\groupitem_dl_devicelist.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_wifi_synac_to_device.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\layout_dialog_wifi_synac_to_device.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_photo.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_modifyname.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_modifyname.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_addfavorite.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_addfavorite.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_about.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_about.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fg_more.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fg_more.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_player.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\view_player.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_container.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fg_localphoto.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fg_localphoto.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_scanqr.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_scanqr.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fg_favorite.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fg_favorite.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_textview.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\simple_textview.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_modifypassword.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_modifypassword.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_choose_channel_no.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\layout_choose_channel_no.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_localvideo.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_localvideo.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_forgetpassword.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_forgetpassword.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_ptzsetting.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_ptzsetting.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_choose_device.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_choose_device.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_test.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_test.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_addp2p.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_addp2p.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_favorite.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_favorite.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_player4.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\view_player4.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_left_menu.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\sliding_left_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splite_page_control_layout.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\splite_page_control_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_photo1.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\item_photo1.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_chooseplaybackdevice.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_chooseplaybackdevice.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fg_devicemanager.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\fg_devicemanager.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_modifydevicepassword.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_modifydevicepassword.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_stream.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\layout_stream.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_camerasetting.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_camerasetting.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myprogress.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\myprogress.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_addip.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_addip.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_wifi_list.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_wifi_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_login.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\layout\\ac_login.xml"
+    }
+]

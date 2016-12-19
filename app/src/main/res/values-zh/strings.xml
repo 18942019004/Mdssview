@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mdssview</string>
+    <string name="custom_flag">Mdssview</string>
+    <string name="client_flag">Mdssview</string>
+    <!-- 侧滑栏标题 -->
+    <string name="leftmenu_main">主页</string>
+    <string name="leftmenu_live">实时预览</string>
+    <string name="leftmenu_playback">回放</string>
+    <string name="leftmenu_devicemanager">设备管理</string>
+    <string name="leftmenu_alarmlist">报警消息</string>
+    <string name="leftmenu_filemanager">文件管理</string>
+    <string name="leftmenu_favorite">收藏夹</string>
+    <string name="leftmenu_localsetting">本地配置</string>
+    <!-- activity标题 -->
+    <string name="title_livepreview">实时监控</string>
+    <string name="title_localsetting">本地配置</string>
+    <string name="title_More">更多</string>
+    <string name="title_favorite">收藏夹</string>
+    <string name="title_devicemanager">设备管理</string>
+    <string name="title_playback">远程回放</string>
+    <string name="title_aliammessage">报警管理</string>
+    <string name="title_adddevice">添加设备</string>
+    <string name="title_about">关于</string>
+    <string name="title_p2p">P2P</string>
+    <string name="title_ip">IP</string>
+    <string name="title_login">登录</string>
+    <string name="title_qrcode">设备列表二维码</string>
+    <string name="title_ptzLength">云台步长</string>
+    <string name="title_scan">扫描二维码</string>
+    <string name="title_modifypwd">修改密码</string>
+    <string name="title_devicesetting">设置</string>
+    <string name="title_modifyname">修改名称</string>
+    <string name="title_chooseplaybackdevice">选择设备</string>
+    <string name="title_register">用户注册</string>
+    <string name="title_findpwd">找回密码</string>
+    <string name="title_cameraparam">摄像机参数</string>
+    <string name="title_wifisetting">WIFI配置</string>
+    <string name="title_alarmsetting">报警设置</string>
+    <string name="title_accountmanage">账号管理</string>
+    <!-- 添加设备 -->
+    <string name="item1">p2p</string>
+    <string name="item4">IP/域名</string>
+    <string name="item6">导入云端设备</string>
+    <string name="adddevice_type">设备类型:</string>
+    <string name="adddevice_name">名称:</string>
+    <string name="adddevice_serias">序列号:</string>
+    <string name="adddevice_user">用户名:</string>
+    <string name="adddevice_pwd">密码:</string>
+    <string name="adddevice_monitor">实时监控:</string>
+    <string name="adddevice_playback">回放:</string>
+    <string name="adddevice_startplay">开始预览</string>
+    <string name="adddevice_ipaddress">IP地址</string>
+    <string name="adddevice_port">端口</string>
+    <string name="adddevice_startsearch">搜索本地设备</string>
+    <!-- 本地设置 -->
+    <string name="ptzlength">云台步长</string>
+    <string name="scale">比例缩放</string>
+    <string name="streamType">流畅度</string>
+    <string name="nodisturb">勿扰模式</string>
+    <string name="alarmsound">报警声音</string>
+    <string name="realtime">实时</string>
+    <string name="smooth">流畅</string>
+    <string name="modify_password">修改密码</string>
+    <string name="modify_logout">注销</string>
+    <!-- 登陆 -->
+    <string name="login_user">用户:</string>
+    <string name="login_pwd">密码:</string>
+    <string name="login_login">登陆</string>
+    <string name="login_locallogin">免登录</string>
+    <string name="login_autologin">自动登录</string>
+    <string name="login_register">注册</string>
+    <string name="login_findpwd">找回密码</string>
+    <!--注册-->
+    <string name="register_username">用户名</string>
+    <string name="register_password">密码</string>
+    <string name="register_ensurepwd">确认密码</string>
+    <string name="register_email">邮箱</string>
+    <string name="register_register">注册</string>
+    <!--修改密码-->
+    <string name="modifypwd_pwd">密码</string>
+    <string name="modifypwd_newpwd">新密码</string>
+    <string name="modifypwd_ensurepwd">确认密码</string>
+    <string name="modifypwd_sure">确认</string>
+
+
+    <!--找回密码-->
+    <string name="forgetpwd_user">用户名</string>
+    <string name="forgetpwd_find">找回密码</string>
+
+    <!-- 设备列表 -->
+    <string name="devicelist_share">生成设备名片</string>
+
+    <!--镜头设置-->
+    <string name="camerasetting_modifyname">修改名称</string>
+    <string name="camerasetting_wifisetting">WIFI设置</string>
+    <string name="camerasetting_alarm">报警布防</string>
+    <string name="camerasetting_cameraparam">摄像机参数</string>
+    <!--摄像机参数-->
+    <string name="cameraparam_rotate">摄像机翻转</string>
+
+    <!--WIFI配置-->
+    <string name="wifisetting_on_off">WIFI开关:</string>
+    <string name="wifisetting_synac_to_device">同步WIFI到设备</string>
+    <string name="wifisetting_enter_ssid">请输入WIFI名称</string>
+    <string name="wifisetting_enter_pass">请输入WIFI密码</string>
+    <string name="wifisetting_show_pass">明文</string>
+    <string name="wifisetting_ok">确定</string>
+    <string name="wifisetting_cancel">取消</string>
+    <string name="wifisetting_nodataerro">无数据</string>
+
+    <!--添加IP地址-->
+    <string name="addip_getchannelfail">获取通道数失败</string>
+    <string name="addip_add_success">添加成功</string>
+
+    <!--添加p2p地址-->
+    <string name="addp2p_getchannelfail">获取通道数失败</string>
+    <string name="addp2p_modify_success">修改成功</string>
+    <string name="addp2p_add_success">添加成功</string>
+    <string name="addp2p_please_choose_channel">通道数</string>
+
+    <!--设备设置-->
+    <string name="devicesetting_modify_conn_param">修改连接参数</string>
+    <string name="devicesetting_change_password">修改密码</string>
+    <string name="devicesetting_sync_time">时间同步</string>
+    <string name="devicesetting_delete">删除</string>
+    <!--选择回放设备-->
+    <string name="chooseplayback_starttime">开始时间:</string>
+    <string name="chooseplayback_endtime">结束时间:</string>
+    <!--搜索本地设备-->
+    <string name="searchdevice_channel">通道数:</string>
+
+    <!--报警设置-->
+    <string name="alarmsetting_name">设备名</string>
+    <string name="alarmsetting_push">报警推送</string>
+    <string name="alarmsetting_toggle">布防开关</string>
+    <string name="alarmsetting_sensor">灵敏度</string>
+    <string name="alarmsetting_save">保存</string>
+
+    <!--更多-->
+    <string name="more_accountmanage">账户管理</string>
+    <string name="more_systemsetting">系统设置</string>
+    <string name="more_about">关于</string>
+    <!--账号管理-->
+    <string name="accountmanage_autologin">自动登录</string>
+    <string name="accountmanage_modify_pwd">修改密码</string>
+
+
+    <!--选择设备-->
+    <string name="choosedevice_startplay">开始预览</string>
+    <!-- 登陆返回的状态码 -->
+    <string name="UNKNOWN_ERROR">未连接</string>
+    <string name="LOGIN_OK">登陆成功</string>
+    <string name="NPC_D_MPI_MON_ERROR_SYS_ERROR">系统错误</string>
+    <string name="NPC_D_MPI_MON_ERROR_CONNECT_FAIL">连接失败</string>
+    <string name="NPC_D_MPI_MON_ERROR_USERID_ERROR">用户名错误</string>
+    <string name="NPC_D_MPI_MON_ERROR_USERPWD_ERROR">密码错误</string>
+    <string name="NPC_D_MPI_MON_ERROR_USER_PWD_ERROR">用户名或密码错误</string>
+    <string name="NPC_D_MPI_MON_ERROR_CONNECTING">正在连接</string>
+    <string name="NPC_D_MPI_MON_ERROR_CONNECTED">已连接</string>
+    <string name="NPC_D_MPI_MON_ERROR_PLAY_FAIL">播放失败</string>
+    <string name="NPC_D_MPI_MON_ERROR_FILE_NONENTITY">文件不存在</string>
+    <string name="NPC_D_MPI_MON_ERROR_EXEC_ORDER_CALL_FAIL">连接失败</string>
+    <string name="NPC_D_MPI_MON_ERROR_EXEC_ORDER_RET_FAIL">连接失败</string>
+    <string name="NPC_D_MPI_MON_ERROR_ALLOC_RES_FAIL">分配资源失败</string>
+    <string name="NPC_D_MPI_MON_ERROR_NO_CONNECT_CAMERA">未连接摄像机</string>
+    <string name="NPC_D_MPI_MON_ERROR_INNER_OP_FAIL">内部操作失败</string>
+    <string name="NPC_D_MPI_MON_ERROR_PLAYING">正在播放</string>
+    <string name="NPC_D_MPI_MON_ERROR_NO_PLAY">未播放</string>
+    <string name="NPC_D_MPI_MON_ERROR_NONSUP_VENDOR">不支持的厂家</string>
+    <string name="NPC_D_MPI_MON_ERROR_REJECT_ACCESS">权限不够</string>
+    <string name="NPC_D_MPI_MON_ERROR_CAMERA_OFFLINE">摄像机离线</string>
+    <string name="NPC_D_MPI_MON_ERROR_ACCOUNT_LOGINED">帐号已登录</string>
+    <string name="NPC_D_MPI_MON_ERROR_ACCOUNT_HAVE_EXPIRED">用户帐号已过有效期</string>
+    <string name="NPC_D_MPI_MON_ERROR_ACCOUNT_NO_ACTIVE">用户帐号未激活</string>
+    <string name="NPC_D_MPI_MON_ERROR_ACCOUNT_DEBT_STOP">用户帐号已欠费停机</string>
+    <string name="NPC_D_MPI_MON_ERROR_TIMESECT_NOT_ALLOW_CAMERA">该时间段不允许访问该摄像机</string>
+    <string name="note_login_again">请重新登录</string>
+
+    <!-- 报警类型 -->
+    <string name="alarminfo_move">移动侦测报警</string>
+    <string name="alarminfo_equipment">设备离线</string>
+    <string name="alarminfo_video_cover">视频遮挡报警</string>
+    <string name="alarminfo_video_lose">视频丢失报警</string>
+    <string name="alarminfo_probe">探头报警</string>
+
+    <!-- 提示 -->
+    <string name="msg_input_cannot_empty">输入不能为空</string>
+    <string name="name_has_been_exist">该名称已存在</string>
+    <string name="password_notequal">两次密码输入不一致</string>
+    <string name="plear_enter_username">请输入用户名</string>
+    <string name="plear_enter_password">请输入密码</string>
+    <string name="msg_register_success">注册成功</string>
+    <string name="msg_register_fail">注册失败</string>
+    <string name="msg_username_already_exist">用户名已存在</string>
+    <string name="msg_usr_pwd_error">用户名或密码错误</string>
+    <string name="msg_login_fail">登录失败</string>
+    <string name="msg_connecting_please_wait">连接中，请稍候...</string>
+    <string name="msg_email_format_error">邮箱格式不正确</string>
+    <string name="msg_pwd_length_error">密码长度最少为六位</string>
+    <string name="msg_resetemail_has_been_sent">重置消息已发送至您的邮箱，请注意查收</string>
+    <string name="msg_get_params_fail">获取参数失败</string>
+    <string name="msg_set_params_success">设置成功</string>
+    <string name="msg_set_params_fail">设置失败</string>
+    <string name="msg_delete_success">删除成功</string>
+    <string name="msg_please_select_file">请选择需要删除的文件</string>
+    <string name="msg_delete_all_alarm">删除所有报警信息？</string>
+    <string name="msg_exit">确认要退出吗？</string>
+    <string name="msg_title">提示</string>
+    <string name="msg_ok">确认</string>
+    <string name="msg_cancel">取消</string>
+    <string name="msg_snap_success">截图成功</string>
+
+    <!--云台TAG-->
+    <string name="ptz_up">ptz_up</string>
+    <string name="ptz_down">ptz_down</string>
+    <string name="ptz_left">ptz_left</string>
+    <string name="ptz_right">ptz_right</string>
+    <string name="ptz_left_up">ptz_left-up</string>
+    <string name="ptz_left_down">ptz_left_down</string>
+    <string name="ptz_right_up">ptz_right_up</string>
+    <string name="ptz_right_down">ptz_right_down</string>
+    <string name="ptz_focus_add">ptz_foucos_add</string>
+    <string name="ptz_focus_reduce">ptz_foucos_reduce</string>
+    <string name="ptz_aperture_add">ptz_aperture_add</string>
+    <string name="ptz_aperture_reduce">ptz_aperture_reduce</string>
+
+    <string name="message_title">设备: %1$s</string>
+    <string-array name="channels">
+        <item>1</item>
+        <item>4</item>
+        <item>9</item>
+        <item>16</item>
+        <item>32</item>
+    </string-array>
+</resources>

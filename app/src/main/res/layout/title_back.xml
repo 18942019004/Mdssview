@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                style="@style/titlebar">
+
+    <Button
+        android:id="@+id/leftBtn"
+        style="@style/nav_button"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/title_back_n"/>
+
+    <TextView
+        android:id="@+id/tv_title"
+        style="@style/tv_title"/>
+
+    <Button
+        android:id="@+id/rightBtn"
+        style="@style/nav_button"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/title_code_n"
+        android:visibility="invisible"/>
+
+</RelativeLayout>

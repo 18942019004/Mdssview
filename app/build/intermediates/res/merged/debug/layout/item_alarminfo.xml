@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                                    android:id="@+id/container"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    app:cardElevation="1dp"
+                                    android:foreground="?android:attr/selectableItemBackground"
+                                    android:orientation="vertical"
+                                    app:cardBackgroundColor="@color/white">
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/bg_test"
+        android:elevation="1dp"
+        android:gravity="center"
+        android:text="今天"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="20dp"
+        android:text="15:22:08"
+        android:textColor="@color/textColor"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:visibility="gone"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="5dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_devicename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="设备名:s247 2"
+            android:textColor="@color/textColor"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/tv_eventtype"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_devicename"
+            android:layout_marginLeft="15dp"
+            android:text="报警类型:移动侦测报警"
+            android:textColor="@color/textColor_light"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/tv_alarmTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="15:22:08"
+            android:textColor="@color/textColor"
+            android:layout_alignBottom="@id/tv_eventtype"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:textSize="16sp"/>
+
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

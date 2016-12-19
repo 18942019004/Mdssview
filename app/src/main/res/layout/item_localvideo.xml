@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/container"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="1dp"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:orientation="vertical"
+                app:cardBackgroundColor="@color/transparent"
+                app:cardElevation="1dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:background="@color/transparent"
+            android:scaleType="fitXY"
+            android:transitionName="img1"/>
+
+        <CheckBox
+            android:id="@+id/cb_select"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:clickable="false"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/tv_totaltime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="1dp"
+            android:background="@drawable/bg_login_edittext"
+            android:padding="3dp"
+            android:text="00:01:25"
+            android:textColor="@color/light_white"
+            android:textSize="10sp"/>
+
+        <View
+            android:id="@+id/v_overlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="#7fffffff"
+            android:visibility="invisible"/>
+    </RelativeLayout>
+</RelativeLayout>

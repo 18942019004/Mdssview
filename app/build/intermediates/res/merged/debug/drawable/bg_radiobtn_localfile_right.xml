@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/alarm_tab_picture_h" android:state_checked="true">
+        <shape>
+            <corners android:bottomRightRadius="5dp" android:topRightRadius="5dp"/>
+
+            <stroke android:width="0.5px" android:color="@color/line"/>
+
+            <solid android:color="@color/blue"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/alarm_tab_picture_n" android:state_checked="false">
+        <shape>
+            <corners android:bottomRightRadius="5dp" android:topRightRadius="5dp"/>
+
+            <stroke android:width="0.5px" android:color="@color/line"/>
+
+            <solid android:color="@color/white"/>
+        </shape>
+    </item>
+
+</selector>

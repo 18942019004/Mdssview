@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_white"
+    android:orientation="vertical" >
+
+    <RelativeLayout style="@style/titlebar" >
+
+        <Button
+            android:id="@+id/btn_menu"
+            style="@style/nav_button"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/title_menu_n" />
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_favorite" />
+
+        <Button
+            android:id="@+id/ibtn_device"
+            style="@style/nav_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/title_addgroup_n" />
+    </RelativeLayout>
+
+</LinearLayout>

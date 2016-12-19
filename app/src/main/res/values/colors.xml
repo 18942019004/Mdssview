@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="gray">#ababab</color>
+    <color name="light_gray">#e6e6e6</color>
+    <color name="dark_gray">#8b8b8b</color>
+    <color name="black">#000000</color>
+    <color name="bg_titlebar">#1b1b1b</color>
+    <color name="blue">#26bbff</color>
+    <color name="blue_light">#1e9dd7</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_white">#f4f4f4</color>
+    <color name="font_gray">#666666</color>
+    <color name="translucent_gray">#7f666666</color>
+    <color name="trans">#11000000</color>
+    <color name="line">#ababab</color>
+    <color name="textColor">#3c3c3c</color>
+    <color name="textColor_light">#6f6d6e</color>
+    <color name="bg_statusBar">#202020</color>
+
+</resources>

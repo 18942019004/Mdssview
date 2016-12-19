@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_ip_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_ip_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_device_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_device_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\favorite_play_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\favorite_play_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_save_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_save_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_save_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_save_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_device_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_device_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_ip_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_ip_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_sound_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_sound_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_livepreview.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\bg_livepreview.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_delete_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_delete_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_snap_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_snap_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_delete_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_delete_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_wifi_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_wifi_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_sound_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_sound_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_snap_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_snap_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_4.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\loading_4.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_ico_home.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\menu_ico_home.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_ico_device_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\menu_ico_device_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_wifi_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_wifi_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\favorite_play_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\favorite_play_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_addgroup_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_addgroup_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_5.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\loading_5.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_2.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\loading_2.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_ico_livepreview_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\menu_ico_livepreview_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_code.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_code.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_function_talk_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_function_talk_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_menu_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_menu_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_function_openmemory_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_function_openmemory_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_addgroup_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_addgroup_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_segmentation_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_segmentation_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_7.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\loading_7.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_ico_playback_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\menu_ico_playback_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_icon_devicelist_group_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\left_icon_devicelist_group_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_function_openmemory_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_function_openmemory_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_icon_devicelist_group_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\left_icon_devicelist_group_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_function_talk_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_function_talk_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_function_favorite_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_function_favorite_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_selectall_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_selectall_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_ptz_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_ptz_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_ico_setting_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\menu_ico_setting_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_6.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\loading_6.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_function_favorite_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_function_favorite_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_deselectall_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_deselectall_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_add_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_add_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_edit_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_edit_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\addfavorite_addgroup_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\addfavorite_addgroup_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_ico_favorites_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\menu_ico_favorites_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_realtime_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_realtime_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_record_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_record_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_record_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_record_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\loading_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_back_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_back_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\addfavorite_addgroup_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\addfavorite_addgroup_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_ptz_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_ptz_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_menu_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_menu_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_icon_devicelist_child.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\left_icon_devicelist_child.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_next_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_next_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_back_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_back_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_devicelist_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_devicelist_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_highlight_h.9.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\bg_highlight_h.9.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_highlight_n.9.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\bg_highlight_n.9.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_stream_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_stream_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_code_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_code_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_devicelist_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_devicelist_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_ico_filemanager.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\menu_ico_filemanager.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_add_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_add_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_bottom_realtime_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\live_bottom_realtime_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_cloud_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_cloud_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_code_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_code_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_0.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\loading_0.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_3.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\loading_3.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_main.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\bg_main.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_edit_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\title_edit_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_cloud_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_cloud_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_next_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\ico_next_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_add_play.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-xhdpi\\bg_add_play.png"
+    }
+]

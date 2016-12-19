@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/titlebar"
+        android:transitionName="leftmenu">
+
+        <Button
+            android:id="@+id/leftBtn"
+            style="@style/nav_button"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/title_back_n"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_adddevice"/>
+
+        <Button
+            android:id="@+id/ibtn_device"
+            style="@style/nav_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/title_code_n"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/item1"
+        style="@style/simpleTextView"
+        android:drawableLeft="@drawable/ico_device_n"
+        android:drawableRight="@drawable/ico_next_n"
+        android:text="@string/item1"/>
+
+    <TextView style="@style/line"/>
+
+    <TextView
+        android:id="@+id/item4"
+        style="@style/simpleTextView"
+        android:drawableLeft="@drawable/ico_ip_n"
+        android:drawableRight="@drawable/ico_next_n"
+        android:text="@string/item4"/>
+
+    <TextView style="@style/line"/>
+
+    <TextView
+        android:id="@+id/item6"
+        style="@style/simpleTextView"
+        android:drawableLeft="@drawable/ico_cloud_n"
+        android:drawableRight="@drawable/ico_next_n"
+        android:text="@string/item6"
+        android:visibility="gone"/>
+
+</LinearLayout>

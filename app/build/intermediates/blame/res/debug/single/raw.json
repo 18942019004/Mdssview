@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\raw\\keep.xml",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.getui\\sdk\\2.9.5.0\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alarm.wav",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\raw\\alarm.wav"
+    }
+]

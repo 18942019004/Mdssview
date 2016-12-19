@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/light_white</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimaryDark">@color/bg_statusBar</item>
+        <item name="colorAccent">@color/bg_titlebar</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Notification.Info.Media"/>
+    <style name="TextAppearance.AppCompat.Notification.Media"/>
+    <style name="TextAppearance.AppCompat.Notification.Time.Media"/>
+    <style name="TextAppearance.AppCompat.Notification.Title.Media"/>
+</resources>

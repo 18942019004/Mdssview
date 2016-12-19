@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BubbleLayout"><attr format="dimension|reference" name="bl_arrowWidth"/><attr format="dimension|reference" name="bl_cornersRadius"/><attr format="dimension|reference" name="bl_arrowHeight"/><attr format="dimension|reference" name="bl_arrowPosition"/><attr format="color|reference" name="bl_bubbleColor"/><attr format="dimension|reference" name="bl_strokeWidth"/><attr format="color|reference" name="bl_strokeColor"/><attr format="enum" name="bl_arrowDirection"><enum name="left" value="0"/><enum name="right" value="1"/><enum name="top" value="2"/><enum name="bottom" value="3"/></attr></declare-styleable>
+</resources>

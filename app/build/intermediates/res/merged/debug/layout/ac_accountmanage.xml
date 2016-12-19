@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:toggle="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/titlebar"
+        android:transitionName="leftmenu">
+
+        <Button
+            android:id="@+id/leftBtn"
+            style="@style/nav_button"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/title_back_n"/>
+
+        <TextView
+            android:id="@+id/tv_title"
+            style="@style/tv_title"
+            android:text="@string/title_accountmanage"/>
+
+    </RelativeLayout>
+
+    <TextView
+        style="@style/line"
+        android:layout_marginTop="20dp"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_setting_height"
+        android:background="@color/white"
+        android:gravity="center_vertical">
+
+        <TextView
+            style="@style/simpleTextView"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/accountmanage_autologin"/>
+
+        <com.widget.ToggleButton
+            android:id="@+id/tg_autologin"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            toggle:offColor="@color/white"
+            toggle:onColor="@color/blue_light"/>
+    </LinearLayout>
+
+    <TextView style="@style/line"/>
+
+    <TextView
+        style="@style/line"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv_modifypwd"
+        style="@style/simpleTextView"
+        android:drawableRight="@drawable/ico_next_n"
+        android:text="@string/accountmanage_modify_pwd"/>
+
+    <TextView style="@style/line"/>
+
+</LinearLayout>

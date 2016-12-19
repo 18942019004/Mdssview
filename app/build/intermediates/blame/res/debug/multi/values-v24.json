@@ -1,0 +1,104 @@
+[
+    {
+        "outputFile": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\values-v24\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 68,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 63,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 63,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endColumn": 68,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 68,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 69,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 69,
+                        "endOffset": 322
+                    }
+                }
+            }
+        ]
+    }
+]

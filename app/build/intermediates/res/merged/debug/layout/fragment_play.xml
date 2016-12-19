@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:id="@+id/title_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/bg_titlebar" >
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/menu_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:background="@drawable/title_menu_n" />
+
+        <Button
+            android:id="@+id/menu_btn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/title_devicelist_n" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/menu_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/rlState"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/textColor"
+ >
+
+            <TextView
+                android:id="@+id/tvState"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tvState1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="80dp" >
+
+            <ImageButton
+                android:id="@+id/talk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@null"
+                android:scaleType="fitCenter"
+                android:visibility="gone" />
+
+            <!--<include-->
+                <!--android:id="@+id/layoutPTZ"-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="fill_parent"-->
+                <!--android:visibility="gone" />-->
+<!--                layout="@layout/ptz_control_layout"
+-->
+            <!--<include-->
+                <!--android:id="@+id/layoutStream"-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="fill_parent"-->
+                <!--android:visibility="gone" />-->
+<!--                layout="@layout/quality_control_layout"
+-->
+            <include
+                android:id="@+id/layoutpageindicator"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                layout="@layout/splite_page_control_layout"
+                android:visibility="visible" />
+
+
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/tab_menu_group"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true" />
+            </RelativeLayout>
+
+            <HorizontalScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingTop="2dp" >
+
+                    <ImageButton
+                        android:id="@+id/playview_cloud_stop"
+                        style="@style/functionButton"
+                        android:src="@drawable/live_bottom_segmentation_n" />
+
+                    <ImageButton
+                        android:id="@+id/btn_snap"
+                        style="@style/functionButton"
+                        android:src="@drawable/live_bottom_snap_n" />
+
+                    <CheckBox
+                        android:id="@+id/btn_record"
+                        style="@style/functionButton"
+                        android:drawableTop="@drawable/live_bottom_record_n" />
+
+                    <ImageButton
+                        android:id="@+id/playview_cloud_ptz"
+                        style="@style/functionButton"
+                        android:src="@drawable/live_bottom_stream_n" />
+
+                    <ImageButton
+                        android:id="@+id/playview_cloud_stream"
+                        style="@style/functionButton"
+                        android:src="@drawable/live_bottom_realtime_n" />
+
+                    <ImageButton
+                        android:id="@+id/playview_cloud_stop_all"
+                        style="@style/functionButton"
+                        android:src="@drawable/bg_cbtn_sound" />
+
+                    <ImageButton
+                        android:id="@+id/playview_cloud_talk"
+                        style="@style/functionButton"
+                        android:src="@drawable/live_bottom_ptz_n" />
+
+                    <ImageButton
+                        android:id="@+id/playview_cloud_sound"
+                        style="@style/functionButton"
+                        android:src="@drawable/live_bottom_zoom_n" />
+                </LinearLayout>
+            </HorizontalScrollView>
+        </FrameLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/menu_layout"
+        android:layout_below="@id/title_layout"
+        android:layout_margin="1dp" >
+
+        <com.widget.PlayLayout
+            android:id="@+id/play_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+        <Button
+            android:id="@+id/btn_left"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/btn_left_0"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_aperture_add"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="left|top"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="65dp"
+            android:background="@drawable/btn_aperture_add"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_aperture_sub"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="left|bottom"
+            android:layout_marginBottom="65dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/btn_aperture_sub"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_foucos_add"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right|top"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="65dp"
+            android:background="@drawable/btn_focus_add"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_foucos_sub"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right|bottom"
+            android:layout_marginBottom="65dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_focus_sub"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_down"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/btn_down_0"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_up"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="top|center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_up_0"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_right"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_right_0"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_left_up"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="left|top"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_left_up_0"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_left_down"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="bottom|left"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/btn_left_down_0"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_right_up"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="top|right"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_right_up_0"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btn_right_down"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right|bottom"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_right_down_0"
+            android:visibility="invisible" />
+    </FrameLayout>
+
+</RelativeLayout>

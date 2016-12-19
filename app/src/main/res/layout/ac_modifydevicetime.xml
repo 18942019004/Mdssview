@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/titlebar"
+        android:transitionName="leftmenu">
+
+        <Button
+            android:id="@+id/leftBtn"
+            style="@style/nav_button"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/title_back_n"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_devicesetting"/>
+
+        <Button
+            android:id="@+id/ibtn_device"
+            style="@style/nav_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/title_code_n"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+    <View
+        style="@style/line"
+        android:layout_marginTop="15dp"/>
+
+    <LinearLayout
+        style="@style/simpleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="left|center_vertical"
+            android:text="本机时间:"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/tv_phoneTime"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="2016-10-29  18:16"
+            android:textColor="@color/font_gray"/>
+    </LinearLayout>
+
+    <View style="@style/line"/>
+
+    <LinearLayout
+        style="@style/simpleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="left|center_vertical"
+            android:text="设备时间:"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/tv_devTime"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="2016-10-29  18:16"
+            android:textColor="@color/font_gray"/>
+    </LinearLayout>
+
+    <View style="@style/line"/>
+
+    <TextView
+        style="@style/line"
+        android:layout_marginTop="15dp"/>
+
+    <Button
+        android:id="@+id/btn_sure"
+        style="@style/simpleTextView"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:text="同步"
+        android:textColor="@color/black"
+        android:textSize="16sp"/>
+
+    <TextView style="@style/line"/>
+</LinearLayout>

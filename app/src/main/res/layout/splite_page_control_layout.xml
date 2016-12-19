@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <RadioButton
+        android:id="@+id/liveview_page_one_img"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:button="@null" />
+
+    <LinearLayout
+        android:layout_width="1.0dip"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="14.0dip"
+        android:layout_marginTop="14.0dip"
+        android:gravity="center_vertical" />
+
+    <RadioButton
+        android:id="@+id/liveview_page_four_img"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:button="@null"
+        android:contentDescription="@null" />
+
+    <com.widget.PageIndicatorView
+          android:id="@+id/pageindicator"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1.0"
+        android:gravity="center" />
+
+    <RadioButton
+        android:id="@+id/liveview_page_nine_img"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:button="@null"
+        android:contentDescription="@null" />
+
+    <LinearLayout
+        android:layout_width="1.0dip"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="14.0dip"
+        android:layout_marginTop="14.0dip"
+        android:gravity="center_vertical" />
+
+    <RadioButton
+        android:id="@+id/liveview_page_sixteen_img"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:button="@null"
+        android:contentDescription="@null" />
+
+</RadioGroup>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@color/light_gray"
+                android:foreground="?android:selectableItemBackground"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:paddingLeft="45dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="left|center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_devName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="247"
+            android:textColor="@color/font_gray"
+            android:textSize="17sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/tvAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_devName"
+            android:text="192.168.10.247"
+            android:textColor="@color/font_gray"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_channelNum"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        android:gravity="left"
+        android:textColor="@color/font_gray"
+        android:textSize="14sp"/>
+
+
+</RelativeLayout>

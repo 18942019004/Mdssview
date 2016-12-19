@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg_livepreview"
+                android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/titlebar"
+        style="@style/titlebar">
+
+        <Button
+            android:id="@+id/btn_menu"
+            style="@style/nav_button"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/title_menu_n"/>
+
+        <TextView
+            style="@style/tv_title"
+            android:text="@string/title_playback"/>
+
+        <Button
+            android:id="@+id/ibtn_device"
+            style="@style/nav_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/title_devicelist_n"/>
+    </RelativeLayout>
+
+    <HorizontalScrollView
+        android:id="@+id/bottom_menu"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/trans"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical">
+
+            <Button
+                android:id="@+id/btn_snap"
+                style="@style/functionButton"
+                android:background="@drawable/live_bottom_snap_n"
+                android:onClick="onClick"/>
+
+            <Button
+                android:id="@+id/btn_record"
+                style="@style/functionButton"
+                android:background="@drawable/live_bottom_record_n"
+                android:onClick="onClick"/>
+
+            <Button
+                android:id="@+id/btn_play"
+                style="@style/functionButton"
+                android:background="@drawable/live_bottom_play_n"
+                android:onClick="onClick"/>
+
+            <Button
+                android:id="@+id/btn_replay"
+                style="@style/functionButton"
+                android:background="@drawable/live_bottom_realtime_n"
+                android:onClick="onClick"/>
+
+            <CheckBox
+                android:id="@+id/cbtn_sound"
+                style="@style/functionButton"
+                android:background="@drawable/bg_cbtn_sound"
+                android:button="@null"
+                android:onClick="onClick"/>
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/layout_functions"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_above="@+id/bottom_menu"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/trans"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.widget.SeekTimeBar
+            android:id="@+id/seekBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+    <com.widget.PlayBackLayout
+        android:id="@+id/player1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/layout_functions"
+        android:layout_below="@id/titlebar"
+        android:visibility="gone"/>
+
+    <com.widget.PlayLayout
+        android:id="@+id/player"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/layout_functions"
+        android:layout_below="@id/titlebar"/>
+
+
+</RelativeLayout>

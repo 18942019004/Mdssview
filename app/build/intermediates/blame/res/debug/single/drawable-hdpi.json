@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_left_up_1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_left_up_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\devicemanager_modify_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\devicemanager_modify_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_localvideo_bottom.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\bg_localvideo_bottom.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi_rssi_2.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\wifi_rssi_2.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_left_1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_left_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\devicemanager_body_alarm_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\devicemanager_body_alarm_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\devicemanager_body_alarm_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\devicemanager_body_alarm_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alarm_tab_picture_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\alarm_tab_picture_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alarm_tab_video_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\alarm_tab_video_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_down_1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_down_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_login_pwd.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_login_pwd.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_long.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\img_long.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi_logo_ssid.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\wifi_logo_ssid.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\live_menu_9.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\live_menu_9.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_focus_add_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_focus_add_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_right_down_0.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_right_down_0.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\devicemanager_modify_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\devicemanager_modify_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi_rssi_1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\wifi_rssi_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\live_bottom_pause_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\live_bottom_pause_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_group_expand_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_group_expand_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_group_expand_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_group_expand_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\devicemanager_body_delete_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\devicemanager_body_delete_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_loading.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\bg_loading.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_up_1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_up_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alarm_tab_picture_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\alarm_tab_picture_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_down_0.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_down_0.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\live_bottom_play_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\live_bottom_play_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_selected.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\icon_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_more_about.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_more_about.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_login_user.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_login_user.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_delete_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_delete_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\live_menu_stream_main_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\live_menu_stream_main_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_left_0.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_left_0.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\localfile_tab_video_n.9.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\localfile_tab_video_n.9.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\localfile_tab_picture_n.9.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\localfile_tab_picture_n.9.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\live_menu_stream_main_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\live_menu_stream_main_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi_dialog_top_wifi.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\wifi_dialog_top_wifi.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_share_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_share_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\localfile_tab_picture_h.9.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\localfile_tab_picture_h.9.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\live_bottom_zoom_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\live_bottom_zoom_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_cancel.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\title_cancel.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\localfile_tab_video_h.9.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\localfile_tab_video_h.9.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_focus_add.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_focus_add.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_up_0.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_up_0.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_center.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\img_center.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_aperture_add_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_aperture_add_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_right_0.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_right_0.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_delete_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_delete_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_focus_sub.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_focus_sub.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_share_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_share_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_help.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_help.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\live_menu_stream_sub_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\live_menu_stream_sub_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_more_setting.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_more_setting.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_aperture_sub_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_aperture_sub_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\live_menu_16.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\live_menu_16.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_right_1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_right_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_left_down_1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_left_down_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_checked_n1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_checked_n1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_channel.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_channel.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_right_up_0.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_right_up_0.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\live_menu_4.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\live_menu_4.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_checked_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_checked_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_right_up_1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_right_up_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_checked_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_checked_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_focus_sub_h.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_focus_sub_h.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_aperture_add.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_aperture_add.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_aperture_sub.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_aperture_sub.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_short.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\img_short.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_device.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\search_device.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_more_user.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\ico_more_user.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_right_down_1.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_right_down_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi_rssi_0.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\wifi_rssi_0.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_left_up_0.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_left_up_0.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi_logo_password.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\wifi_logo_password.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\live_menu_stream_sub_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\live_menu_stream_sub_n.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_left_down_0.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\btn_left_down_0.png"
+    },
+    {
+        "merged": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alarm_tab_video_n.png",
+        "source": "E:\\Android\\AS_WorkSpace\\Mdssview\\app\\src\\main\\res\\drawable-hdpi\\alarm_tab_video_n.png"
+    }
+]

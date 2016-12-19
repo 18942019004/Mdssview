@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/white"
+                android:orientation="vertical">
+
+    <include
+        android:id="@+id/title"
+        layout="@layout/title_back"/>
+
+    <CheckBox
+        android:id="@+id/cbox_time_start"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_below="@id/title"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:addStatesFromChildren="true"
+        android:background="@drawable/bg_selecttime"
+        android:button="@null"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:textColor="@color/black"
+        android:textSize="18sp"/>
+
+    <CheckBox
+        android:id="@+id/cbox_time_end"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_below="@id/cbox_time_start"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:addStatesFromChildren="true"
+        android:background="@drawable/bg_selecttime"
+        android:button="@null"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:textColor="@color/black"
+        android:textSize="18sp"/>
+
+    <com.widget.TimePickerView
+        android:id="@+id/time_picker"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cbox_time_end"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:paddingLeft="10.0dip"
+        android:paddingRight="10.0dip"/>
+
+    <Button
+        android:id="@+id/btn_addToPlay"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:enabled="false"
+        android:text="开始预览"/>
+
+    <ExpandableListView
+        android:id="@+id/elv_devicelist"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/btn_addToPlay"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/time_picker"
+        android:cacheColorHint="@color/transparent"
+        android:childDivider="@null"
+        android:childIndicator="@null"
+        android:divider="@null"
+        android:groupIndicator="@null"/>
+
+</RelativeLayout>
